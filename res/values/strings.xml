@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Sensores na Prática</string>
+    <string name="light">Nível de Luz</string>
+    <string name="pressure">Pressão Atmosférica</string>
+    <string name="proximity">Proximidade</string>
+    <string name="rotation_angle">Ângulo de Rotação</string>
+    <string name="gyroscope">Giroscópio</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="address">Endereço</string>
+    <string name="refresh">Atualizar</string>
+
+</resources>
